@@ -1,0 +1,16 @@
+extensions: designer.cs
+extensions: .cs
+region copyright "Copyright Bullet Labs 2013 by %UserName%"
+//This %FileName%  was created by %UserName%, on %CreationMonth%/%CreationDay%/%CreationYear% at %CreationTime%
+//While using Lasted edited by %UserName% on %CurrentMonth%/%CurrentDay%/%CurrentYear%,  at %CurrentTime% 
+endregion
+extensions: .aspx .ascx
+<%-- 
+Sample license text.
+--%>
+extensions: .vb
+#Region "Copyright Bullet Labs 2013 by %UserName%"
+'This %FileName% was created by %UserName%, on %CreationMonth%/%CreationDay%/%CreationYear% at %CreationTime%
+'While using Lasted edited by %UserName% on %CurrentMonth%/%CurrentDay%/%CurrentYear%,  at %CurrentTime% 
+ #End Region
+   
